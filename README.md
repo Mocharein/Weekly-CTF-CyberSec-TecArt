@@ -1,2 +1,2 @@
-# Weekly-CTF-CyberSec-TecArt
-Weekly CTF CyberSec TecArt
+Nama: Ni Kadek Dwi Indira
+NIM: 260530911014
